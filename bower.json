@@ -2,6 +2,13 @@
   "name": "cssjs",
   "version": "0.1.0",
   "main": "cssjs.js",
+  "description": "Change CSS on the fly",
+  "keywords": ["css", "stylesheet", "change", "fly", "edit", "selector"],
+  "author": "Daniel Osorio <danosot@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/danioso/cssjs.git"
+  },
   "ignore": [
     "node_modules",
     "src",
