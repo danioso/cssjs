@@ -1,0 +1,10 @@
+{
+  "name": "cssjs",
+  "version": "0.1.0",
+  "main": "cssjs.js",
+  "ignore": [
+    "node_modules",
+    "src",
+    "test"
+  ],
+}
